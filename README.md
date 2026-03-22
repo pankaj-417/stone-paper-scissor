@@ -36,3 +36,5 @@ Strengthened understanding of functions & conditionals in JavaScript
 Learned how to manipulate DOM dynamically
 
 Gained hands-on practice in building interactive web apps
+
+https://pankaj-417.github.io/stone-paper-scissor/
