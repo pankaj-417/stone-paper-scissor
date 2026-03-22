@@ -37,4 +37,4 @@ Learned how to manipulate DOM dynamically
 
 Gained hands-on practice in building interactive web apps
 
-https://pankaj-417.github.io/stone-paper-scissor/
+Try here- https://pankaj-417.github.io/stone-paper-scissor/
